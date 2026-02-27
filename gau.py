@@ -1,5 +1,5 @@
-hai
-archana i am gautham
-hai di archanaaaa
-i am here 
-hehheheeh
+a=("hai archana i am gauthamhai di archanaaaa  i am here  hehheheeh")
+print(a)
+      
+       
+        
