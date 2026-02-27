@@ -1,0 +1,12 @@
+def cow_says():
+    cow = """
+    ^__^
+    (oo)\_______
+    (__)\       )\/\\
+        ||----w |
+        ||     ||
+    """
+    print(cow)
+    print('Archana says: "hai archana"')
+
+cow_says()
